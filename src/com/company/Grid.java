@@ -7,8 +7,8 @@ public void myGrid() {
        for(int i = 0; i < myGrid.length; i++) {
         for(int j = 0; j < myGrid.length; j++) {
             System.out.println(myGrid[i][j]);
-        }
+            }
 
+        }
     }
-}
 }
